@@ -1,5 +1,5 @@
 - name: Office Add-ins documentation
-  href: index.yml
+  href: index.md
 
 - name: Office Add-ins platform
   displayName: Excel, Word, OneNote, Project, PowerPoint, Visio, Outlook
